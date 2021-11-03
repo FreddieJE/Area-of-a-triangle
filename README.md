@@ -1,2 +1,2 @@
 # Area-of-a-triangle
-First ever GitHub repository
+My first ever GitHub repository
